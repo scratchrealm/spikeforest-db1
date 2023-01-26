@@ -1,0 +1,85 @@
+type: recording
+durationSec: 847.5800333333333
+name: m15_190315_142052_cell1
+numChannels: 32
+numTrueUnits: 1
+recordingObject:
+  geom:
+  - - 0.0
+    - 0.0
+  - - -18.0
+    - 12.5
+  - - 18.0
+    - 12.5
+  - - 0.0
+    - 25.0
+  - - -18.0
+    - 37.5
+  - - 18.0
+    - 37.5
+  - - 0.0
+    - 50.0
+  - - -18.0
+    - 62.5
+  - - 18.0
+    - 62.5
+  - - 0.0
+    - 75.0
+  - - -18.0
+    - 87.5
+  - - 18.0
+    - 87.5
+  - - 0.0
+    - 100.0
+  - - -18.0
+    - 112.5
+  - - 18.0
+    - 112.5
+  - - 0.0
+    - 125.0
+  - - -18.0
+    - 137.5
+  - - 18.0
+    - 137.5
+  - - 0.0
+    - 150.0
+  - - -18.0
+    - 162.5
+  - - 18.0
+    - 162.5
+  - - 0.0
+    - 175.0
+  - - -18.0
+    - 187.5
+  - - 18.0
+    - 187.5
+  - - 0.0
+    - 200.0
+  - - -18.0
+    - 212.5
+  - - 18.0
+    - 212.5
+  - - 0.0
+    - 225.0
+  - - -18.0
+    - 237.5
+  - - 18.0
+    - 237.5
+  - - 0.0
+    - 250.0
+  - - 0.0
+    - 275.0
+  params:
+    samplerate: 30000
+    scale_factor: 0.195
+    spike_sign: -1
+  raw: sha1://8037e0bfc3780c7dbe79ebd8235a600380077b21?label=raw.mda
+recordingUri: sha1://f71399e9278c5e768af2170e20ef2380110a4562/m15_190315_142052_cell1.json
+sampleRateHz: 30000
+sortingTrueObject:
+  firings: sha1://931bca3d5a6ec28c314329a55770446db2c91ddb?label=firings_true.mda
+  samplerate: 30000
+sortingTrueUri: sha1://825caa33c5554f379423bb14ef7a4523e0ac4fe9/m15_190315_142052_cell1.firings_true.json
+spikeSign: -1
+studyName: paired_english
+studySetName: PAIRED_ENGLISH

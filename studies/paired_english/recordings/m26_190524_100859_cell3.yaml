@@ -1,0 +1,29 @@
+type: recording
+durationSec: 1453.0033333333333
+name: m26_190524_100859_cell3
+numChannels: 4
+numTrueUnits: 1
+recordingObject:
+  geom:
+  - - 0.0
+    - 0.0
+  - - -18.0
+    - 12.5
+  - - 18.0
+    - 12.5
+  - - 0.0
+    - 25.0
+  params:
+    samplerate: 30000
+    scale_factor: 0.195
+    spike_sign: -1
+  raw: sha1://d06a2d88c6ae6e721de9dcbb24d6e823fea4bd5f?label=raw.mda
+recordingUri: sha1://e53e1c560d15a789432629baaa53b5cf3ef5b389/m26_190524_100859_cell3.json
+sampleRateHz: 30000
+sortingTrueObject:
+  firings: sha1://30722efbe9434f4d2cd393c139368837dfa3674b?label=firings_true.mda
+  samplerate: 30000
+sortingTrueUri: sha1://0401e366e38657920f98858d0ed581ffcca99d02/m26_190524_100859_cell3.firings_true.json
+spikeSign: -1
+studyName: paired_english
+studySetName: PAIRED_ENGLISH

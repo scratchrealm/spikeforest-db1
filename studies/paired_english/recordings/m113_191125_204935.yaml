@@ -1,0 +1,85 @@
+type: recording
+durationSec: 321.696
+name: m113_191125_204935
+numChannels: 32
+numTrueUnits: 1
+recordingObject:
+  geom:
+  - - 0.0
+    - 0.0
+  - - -18.0
+    - 12.5
+  - - 18.0
+    - 12.5
+  - - 0.0
+    - 25.0
+  - - -18.0
+    - 37.5
+  - - 18.0
+    - 37.5
+  - - 0.0
+    - 50.0
+  - - -18.0
+    - 62.5
+  - - 18.0
+    - 62.5
+  - - 0.0
+    - 75.0
+  - - -18.0
+    - 87.5
+  - - 18.0
+    - 87.5
+  - - 0.0
+    - 100.0
+  - - -18.0
+    - 112.5
+  - - 18.0
+    - 112.5
+  - - 0.0
+    - 125.0
+  - - -18.0
+    - 137.5
+  - - 18.0
+    - 137.5
+  - - 0.0
+    - 150.0
+  - - -18.0
+    - 162.5
+  - - 18.0
+    - 162.5
+  - - 0.0
+    - 175.0
+  - - -18.0
+    - 187.5
+  - - 18.0
+    - 187.5
+  - - 0.0
+    - 200.0
+  - - -18.0
+    - 212.5
+  - - 18.0
+    - 212.5
+  - - 0.0
+    - 225.0
+  - - -18.0
+    - 237.5
+  - - 18.0
+    - 237.5
+  - - 0.0
+    - 250.0
+  - - 0.0
+    - 275.0
+  params:
+    samplerate: 30000
+    scale_factor: 0.195
+    spike_sign: -1
+  raw: sha1://2c89b6ac31a2fb3024bea52dad823855299c11e2?label=raw.mda
+recordingUri: sha1://6e959952dbb9ededef8990d7a73ddae318f10e0f/m113_191125_204935.json
+sampleRateHz: 30000
+sortingTrueObject:
+  firings: sha1://c442d169052e2de0e720084f1bb794ac823c2780?label=firings_true.mda
+  samplerate: 30000
+sortingTrueUri: sha1://f6a108a1d6db627e9953a7442b89ba8ec7be04a1/m113_191125_204935.firings_true.json
+spikeSign: -1
+studyName: paired_english
+studySetName: PAIRED_ENGLISH

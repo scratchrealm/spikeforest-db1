@@ -1,0 +1,29 @@
+type: recording
+durationSec: 396.924
+name: d11222_d11222.002
+numChannels: 4
+numTrueUnits: 1
+recordingObject:
+  geom:
+  - - 0.0
+    - 0.0
+  - - 0.0
+    - 25.0
+  - - 0.0
+    - 50.0
+  - - 0.0
+    - 75.0
+  params:
+    samplerate: 20000
+    scale_factor: 0.305176
+    spike_sign: -1
+  raw: sha1://125ac8f3fa880d6fa26e597a6a32a31d51fe4701?label=raw.mda
+recordingUri: sha1://efa2bfc1da06230ccf9065c8eed22b5c09f93274/d11222_d11222.002.json
+sampleRateHz: 20000.0
+sortingTrueObject:
+  firings: sha1://07f74986072f7b696cd7eb980ef7028b1edf6f7a?label=firings_true.mda
+  samplerate: 20000.0
+sortingTrueUri: sha1://f9902d70f8a7d6d5fcaca82aa946e8a7eec10b0f/d11222_d11222.002.firings_true.json
+spikeSign: -1
+studyName: paired_crcns
+studySetName: PAIRED_CRCNS_HC1

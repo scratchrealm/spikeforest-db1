@@ -1,0 +1,85 @@
+type: recording
+durationSec: 486.6634666666667
+name: '509_1_1'
+numChannels: 32
+numTrueUnits: 1
+recordingObject:
+  geom:
+  - - 11.5
+    - 429.0
+  - - 23.0
+    - 429.0
+  - - 34.5
+    - 429.0
+  - - 0.0
+    - 440.0
+  - - 11.5
+    - 440.0
+  - - 23.0
+    - 440.0
+  - - 34.5
+    - 440.0
+  - - 0.0
+    - 451.0
+  - - 11.5
+    - 451.0
+  - - 23.0
+    - 451.0
+  - - 34.5
+    - 451.0
+  - - 0.0
+    - 462.0
+  - - 11.5
+    - 462.0
+  - - 23.0
+    - 462.0
+  - - 34.5
+    - 462.0
+  - - 0.0
+    - 473.0
+  - - 11.5
+    - 473.0
+  - - 23.0
+    - 473.0
+  - - 34.5
+    - 473.0
+  - - 0.0
+    - 484.0
+  - - 11.5
+    - 484.0
+  - - 23.0
+    - 484.0
+  - - 34.5
+    - 484.0
+  - - 0.0
+    - 495.0
+  - - 11.5
+    - 495.0
+  - - 23.0
+    - 495.0
+  - - 34.5
+    - 495.0
+  - - 0.0
+    - 506.0
+  - - 11.5
+    - 506.0
+  - - 23.0
+    - 506.0
+  - - 34.5
+    - 506.0
+  - - 23.0
+    - 517.0
+  params:
+    samplerate: 30000
+    scale_factor: 0.195
+    spike_sign: -1
+  raw: sha1://7142ded3ed3345447ffae10fff22dc0adaabb077?label=raw.mda
+recordingUri: sha1://af2f67743244ddba2276a1eb9d61a9076adbae77/509_1_1.json
+sampleRateHz: 30000.0
+sortingTrueObject:
+  firings: sha1://a2a828a89e2f4604f3bfad7211a4f14daeec9686?label=firings_true.mda
+  samplerate: 30000.0
+sortingTrueUri: sha1://981b2c269f585c092ee480583be60f6c09c9666b/509_1_1.firings_true.json
+spikeSign: -1
+studyName: paired_boyden32c
+studySetName: PAIRED_BOYDEN

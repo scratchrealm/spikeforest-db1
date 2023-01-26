@@ -1,0 +1,85 @@
+type: recording
+durationSec: 1080.0453666666667
+name: c14
+numChannels: 32
+numTrueUnits: 1
+recordingObject:
+  geom:
+  - - 11.0
+    - 1460.0
+  - - 59.0
+    - 1480.0
+  - - 27.0
+    - 1480.0
+  - - 43.0
+    - 1500.0
+  - - 11.0
+    - 1500.0
+  - - 59.0
+    - 1520.0
+  - - 27.0
+    - 1520.0
+  - - 43.0
+    - 1540.0
+  - - 11.0
+    - 1540.0
+  - - 59.0
+    - 1560.0
+  - - 27.0
+    - 1560.0
+  - - 43.0
+    - 1580.0
+  - - 11.0
+    - 1580.0
+  - - 59.0
+    - 1600.0
+  - - 27.0
+    - 1600.0
+  - - 43.0
+    - 1620.0
+  - - 11.0
+    - 1620.0
+  - - 59.0
+    - 1640.0
+  - - 27.0
+    - 1640.0
+  - - 43.0
+    - 1660.0
+  - - 11.0
+    - 1660.0
+  - - 59.0
+    - 1680.0
+  - - 27.0
+    - 1680.0
+  - - 43.0
+    - 1700.0
+  - - 11.0
+    - 1700.0
+  - - 59.0
+    - 1720.0
+  - - 27.0
+    - 1720.0
+  - - 43.0
+    - 1740.0
+  - - 11.0
+    - 1740.0
+  - - 59.0
+    - 1760.0
+  - - 27.0
+    - 1760.0
+  - - 11.0
+    - 1780.0
+  params:
+    samplerate: 30000
+    scale_factor: 0.01
+    spike_sign: -1
+  raw: sha1://4b90e7e52740bdd85f371e5445563e6b96ab665c?label=raw.mda
+recordingUri: sha1://e506f160e47606bbe2db59b6f2fcb8e6e0e338a4/c14.json
+sampleRateHz: 30000.0
+sortingTrueObject:
+  firings: sha1://d7372eb6b225fce4313a0034f745ab3e81ad3143?label=firings_true.mda
+  samplerate: 30000.0
+sortingTrueUri: sha1://cc697d29fe43391b387e68bd1818983539870bf4/c14.firings_true.json
+spikeSign: -1
+studyName: paired_kampff
+studySetName: PAIRED_KAMPFF
